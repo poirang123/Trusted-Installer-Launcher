@@ -220,7 +220,7 @@ After installation:
 ## Author
 **Abdullah ERTÜRK**
 * [https://github.com/abdullah-erturk](https://github.com/abdullah-erturk)
-  [https://erturk.netlify.app](https://erturk.netlify.app)
+* [https://erturk.netlify.app](https://erturk.netlify.app)
 
 ---
 
