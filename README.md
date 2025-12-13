@@ -1,3 +1,8 @@
+<a href="https://buymeacoffee.com/abdullaherturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Tech-Batch_&_PowerShell-blue?style=for-the-badge)
+
 ![sample](https://github.com/abdullah-erturk/Trusted-Installer-Launcher/blob/main/preview.jpg)
 
 # Trusted Installer Launcher
@@ -102,6 +107,12 @@ Kurulum tamamlandığında:
   - `HKCR\Directory\shell\RunAsTI`
   - `HKCR\Directory\Background\shell\RunAsTI`
 
+---
+
+## Yazar
+**Abdullah ERTÜRK**
+* [https://github.com/abdullah-erturk](https://github.com/abdullah-erturk)
+* [https://erturk.netlify.app](https://erturk.netlify.app)
 
 ---
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!  
@@ -202,6 +213,14 @@ After installation:
   - `HKCR\Directory\Background\shell\RunAsTI`
 
 ---
+
+## Author
+**Abdullah ERTÜRK**
+* [https://github.com/abdullah-erturk](https://github.com/abdullah-erturk)
+  [https://erturk.netlify.app](https://erturk.netlify.app)
+
+---
+
 ⭐ If you like the project, don't forget to give it a star!
 
 </details>
