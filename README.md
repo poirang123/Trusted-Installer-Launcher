@@ -5,6 +5,10 @@
 
 ![sample](https://github.com/abdullah-erturk/Trusted-Installer-Launcher/blob/main/preview.jpg)
 
+## Link:
+
+[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://codeload.github.com/abdullah-erturk/Trusted-Installer-Launcher/zip/refs/heads/main)
+
 # Trusted Installer Launcher
 
 **Trusted Installer Launcher**, Windows sistemlerinde en yüksek yetki seviyesi olan **TrustedInstaller** (TI) haklarıyla dosya, klasör ve programları çalıştırmanızı sağlayan güçlü bir araçtır. Hem sürükle-bırak özelliği hem de sistem entegrasyonu ile kullanım kolaylığı sunar. Bu dosya ile TrustedInstaller yetkisini herhangi bir başka uygulamaya gerek kalmadan Windows'un yerleşik kodlarıyla (cmd + powershell) kullanabilirsiniz.
