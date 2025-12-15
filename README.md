@@ -5,6 +5,8 @@
 
 ![sample](https://github.com/abdullah-erturk/Trusted-Installer-Launcher/blob/main/preview.jpg)
 
+![sample](https://github.com/abdullah-erturk/Trusted-Installer-Launcher/blob/main/preview.gif)
+
 ## Link:
 
 [![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/Trusted-Installer-Launcher/archive/refs/heads/main.zip)
