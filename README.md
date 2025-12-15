@@ -43,7 +43,7 @@ Windows'ta bazı sistem dosyaları, klasörler ve hizmetler Administrator yetkis
 
 1. **Script'i İndirin**: `TrustedInstaller.bat` dosyasını indirin
 2. **Script'i Çalıştırın**: Dosyaya çift tıklayın
-3. **Kurulum Seçin**: Açılan menüden "NO" (Sisteme Kur) seçeneğini seçin
+3. **Kurulum Seçin**: Açılan menüden "Hayır" (Sisteme Kur) seçeneğini seçin
 4. **Onaylayın**: UAC (Kullanıcı Hesabı Denetimi) isteğini onaylayın
 
 Kurulum tamamlandığında:
