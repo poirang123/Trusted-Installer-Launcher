@@ -55,7 +55,7 @@ Kurulum tamamlandığında:
 #### Yöntem 1: Sürükle-Bırak
 ```
 1. Çalıştırmak istediğiniz dosyayı seçin
-2. TrustedInstaller üzerine sürükleyin
+2. TrustedInstaller.bat dosyası üzerine sürükleyin
 3. Dosya otomatik olarak TI yetkisiyle çalışır
 ```
 
@@ -160,7 +160,7 @@ After installation:
 #### Method 1: Drag-and-Drop
 ```
 1. Select the file you want to run
-2. Drag it onto TrustedInstaller.bat
+2. Drag and drop onto the TrustedInstaller.bat file.
 3. File runs automatically with TI privileges
 ```
 
